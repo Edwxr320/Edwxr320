@@ -9,7 +9,7 @@
 <!-- ✏️ BANNER: animación propia en assets/banner.svg (nombre + texto que se escribe solo + red neuronal).
      Para cambiar las frases que se escriben, edita el archivo SVG (busca las etiquetas <text class="mono typed">). -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Edwar Alama — Ingeniería de Software con IA · SENATI">
+  <img src="./banner.svg" width="100%" alt="Edwar Alama — Ingeniería de Software con IA · SENATI">
 </p>
 
 <!-- ✏️ ESTADO: cambia el texto del badge si ya conseguiste tus prácticas. -->
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/SENATI-quinto%20ciclo-8B5CF6?style=flat-square&labelColor=161B22" alt="SENATI, quinto ciclo">
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
+<p align="center"><img src="./divider.svg" width="100%" alt=""></p>
 
 ## Sobre mí
 
