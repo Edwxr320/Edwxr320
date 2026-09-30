@@ -23,10 +23,7 @@
 ## Sobre mí
 
 <!-- ✏️ TEXTO: actualiza el ciclo cuando avances. -->
-Estoy en quinto ciclo de Ingeniería de Software con Inteligencia Artificial en SENATI, carrera que estudio con Beca 18 de PRONABEC. Casi todo lo que sé lo he aprendido armando proyectos: tiendas y sistemas de pedidos en JavaScript puro, bases de datos para los cursos del instituto y modelos de visión por computadora con TensorFlow.
-
-Quiero crecer como desarrollador de software juntando lo que ya hago en frontend con backend y bases de datos, sin soltar la parte de IA de mi carrera.
-
+Soy estudiante de Ingeniería de Software con IA en SENATI, con habilidades en JavaScript, PHP, Python, MySQL, Git y Scrum. Me caracterizo por la responsabilidad, el aprendizaje continuo y el trabajo en equipo. Me interesa crear soluciones que integren web y Machine Learning para resolver problemas a través de la web. Tengo capacidad para desarrollar e-commerce completos y modelos de visión por computadora con TensorFlow y Keras. 
 ## Tecnologías
 
 <!-- ✏️ ICONOS: vienen de skillicons.dev. Para agregar uno, añade su id al parámetro i= (lista en https://skillicons.dev).
