@@ -23,7 +23,7 @@
 ## Sobre mí
 
 <!-- ✏️ TEXTO: actualiza el ciclo cuando avances. -->
-Soy estudiante de Ingeniería de Software con IA en SENATI, con habilidades en JavaScript, PHP, Python, MySQL, Git y Scrum. Me caracterizo por la responsabilidad, el aprendizaje continuo y el trabajo en equipo. Me interesa crear soluciones que integren web y Machine Learning para resolver problemas a través de la web. Tengo capacidad para desarrollar e-commerce completos y modelos de visión por computadora con TensorFlow y Keras. 
+Soy Ingeniero de Software con IA con habilidades en JavaScript, PHP, Python, MySQL, Git y Scrum. Me caracterizo por la responsabilidad, el aprendizaje continuo y el trabajo en equipo. Desarrollo e-commerce completos y modelos de visión por computadora con TensorFlow y Keras, integrando web y Machine Learning para resolver problemas reales. Mi misión es diseñar arquitecturas web escalables con IA para optimizar procesos y generar valor medible en producción.  
 ## Tecnologías
 
 <!-- ✏️ ICONOS: vienen de skillicons.dev. Para agregar uno, añade su id al parámetro i= (lista en https://skillicons.dev).
